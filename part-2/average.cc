@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Eric Tran
+// ericxtran77@csu.fullerton.edu
+// @ericxtran77
+// Partners: @marianaranki
 
 #include <iostream>
 #include <string>
